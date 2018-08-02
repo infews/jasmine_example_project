@@ -1,6 +1,6 @@
 # A Jasmine Example Project
 
-Doing what you do to test JavaScript with [Jasmine](http://pivotal.github.com/jasmine).
+Doing what you do to test JavaScript with [Jasmine](https://jasmine.github.io/).
 
 This project doesn't cover everything that Jasmine can do, but shows examples of a lot of common techniques and patterns.
 
